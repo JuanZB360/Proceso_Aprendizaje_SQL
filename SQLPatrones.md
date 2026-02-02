@@ -1,3 +1,7 @@
+* [**🏠 Volver a Menú de Aprendizaje Consultas SQL**](./SQLSelect.md)
+
+---
+
 # BUSQUEDA DE PATRONES
 
 Para explicar todas las sentencias utilizaremos la siguiente tabla:
@@ -101,3 +105,7 @@ SELECT * FROM users WHERE name LIKE 'M____a';
 | id | name  | lastName  | age | country   |
 |:---|:------|:----------|:----|:----------|
 | 4  | Marta | López     | 19  | Argentina |
+
+---
+
+* [**🏠 Volver a Menú de Aprendizaje Consultas SQL**](./SQLSelect.md)

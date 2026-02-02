@@ -4,6 +4,6 @@
 - [🔐 Restricciones](./restricciones.md)
 - [🛠️ Creación de Base de Datos](./SQLCreacionDB.md)
 - [📋 Creación de Tablas](./SQLCreacionTablas.md)
-- [🔑 Clave Primaria y Foránea](./sentenciasSQLKeys.md)
+- [🔑 Clave Primaria y Foránea](./SQLKeys.md)
 - [🔄 CRUD en SQL](./SQLCRUD.md)
 - [🔍 Consultas con SELECT](./SQLSelect.md)

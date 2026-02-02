@@ -1,3 +1,7 @@
+* [**🏠 Volver a Menú de Aprendizaje Consultas SQL**](./SQLSelect.md)
+
+---
+
 # 🚀 PRINCIPIOS DE LAS CONSULTAS
 
 Para explicar todas las sentencias utilizaremos la siguiente tabla:
@@ -108,3 +112,7 @@ Esto traerá todos los nombres sin que hayan repetidos:
 
 > [!NOTE]
 > Como puedes observar, aunque en la tabla original existen dos registros con el nombre "Juan", la sentencia `DISTINCT` los agrupa para mostrar únicamente los valores únicos.
+
+---
+
+* [**🏠 Volver a Menú de Aprendizaje Consultas SQL**](./SQLSelect.md)

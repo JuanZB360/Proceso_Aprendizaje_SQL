@@ -1,10 +1,14 @@
-# 📑 Menú de Aprendizaje SQL
+* [**🏠 Volver a estructura de mi aprendizaje**](./README.md)
+
+---
+
+# 📑 Menú de Aprendizaje Consultas SQL
 
 Selecciona un módulo para ver el contenido detallado:
 
 ---
 
-* [**🏠 Principios de las consultas**](./SQLPrincios.md)
+* [**🏠 Principios de las consultas**](./SQLPrincipiosConsultas.md)
 * [**🔍 Filtrando y Ordenando datos**](./SQLFiltro.md)
 * [**📊 Rangos y Listas**](./SQLRangosListas.md)
 * [**✨ Búsqueda de patrones**](./SQLPatrones.md)

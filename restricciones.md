@@ -1,3 +1,7 @@
+* [**🏠 Volver a estructura de mi aprendizaje**](./README.md)
+
+---
+
 # 🛡️ Restricciones en Bases de Datos
 
 Son reglas que limitan cómo pueden interactuar las entidades y las relaciones entre sí. Esto garantiza la integridad y coherencia de los datos.
@@ -54,3 +58,7 @@ Se refiere a las reglas que aseguran la coherencia y la integridad referencial e
 * **Clave externa:** Es la referencia fundamental; es la clave foránea a través de la cual se llama la clave primaria de la entidad relacionada.
 * **Restricción en cascada:** Es la automatización de datos de manera automática al generarse un cambio en la entidad principal.
     * *Ejemplo:* Si se actualiza un ID en la entidad principal, todas las claves foráneas que hacen referencia a ese ID se actualizarán. Si se elimina, todos los registros que estén relacionados se eliminarán.
+
+---
+
+* [**🏠 Volver a estructura de mi aprendizaje**](./README.md)

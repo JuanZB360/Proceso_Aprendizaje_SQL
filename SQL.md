@@ -1,3 +1,8 @@
+
+* [**🏠 Volver a estructura de mi aprendizaje**](./README.md)
+
+---
+
 # 📔 SQL: Bitácora de Aprendizaje
 
 En este documento llevaré una bitácora sobre todo mi proceso de aprendizaje en bases de datos con el lenguaje.
@@ -108,3 +113,7 @@ Un registro de la entidad A se relaciona con muchos registros de la entidad B.
 Muchos registros de una entidad A están relacionados a muchos registros de una entidad B.
 * **Ejemplo:** Un estudiante puede inscribirse a muchos cursos / Un curso tiene muchos estudiantes.
 * **Buena práctica:** Crear una **tabla intermedia** para relacionar dos tablas con esta cardinalidad.
+
+---
+
+* [**🏠 Volver a estructura de mi aprendizaje**](./README.md)

@@ -1,3 +1,7 @@
+* [**🏠 Volver a estructura de mi aprendizaje**](./README.md)
+
+---
+
 # 🛠️ MANIPULACION DE TABLAS
 
 ---
@@ -97,3 +101,7 @@ Si decides que tu tabla debe llamarse de otra forma:
 ```sql
 ALTER TABLE productos RENAME TO inventario_general;
 ```
+
+---
+
+* [**🏠 Volver a estructura de mi aprendizaje**](./README.md)

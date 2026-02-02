@@ -1,3 +1,7 @@
+* [**🏠 Volver a Menú de Aprendizaje Consultas SQL**](./SQLSelect.md)
+
+---
+
 # 🔗 RELACIONES (JOINs)
 
 En una base de datos, la información suele estar distribuida en múltiples tablas. Para realizar consultas integrales, necesitamos acceder y combinar datos de estas tablas mediante la sentencia `JOIN`. Estas relaciones son posibles gracias al uso de las **claves foráneas (Foreign Keys)**.
@@ -140,3 +144,7 @@ A diferencia del `LEFT JOIN`, esta sentencia prioriza la tabla de la derecha (la
     INNER JOIN categorias AS c ON p.fk_categoria = c.id_categoria
     INNER JOIN proveedores AS prov ON p.fk_proveedor = prov.id_proveedor;
 ```
+
+---
+
+* [**🏠 Volver a Menú de Aprendizaje Consultas SQL**](./SQLSelect.md)

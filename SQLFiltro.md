@@ -1,3 +1,7 @@
+* [**🏠 Volver a Menú de Aprendizaje Consultas SQL**](./SQLSelect.md)
+
+---
+
 # 🔍 FILTRANDO Y ORDENANDO DATOS
 
 Para explicar todas las sentencias utilizaremos la siguiente tabla:
@@ -58,3 +62,7 @@ Con los operadores lógicos podemos utilizar también los de comparación para p
     SELECT * FROM users 
     WHERE country = 'Argentina' OR country = 'Colombia';
 ```
+
+---
+
+* [**🏠 Volver a Menú de Aprendizaje Consultas SQL**](./SQLSelect.md)

@@ -1,3 +1,7 @@
+* [**🏠 Volver a Menú de Aprendizaje Consultas SQL**](./SQLSelect.md)
+
+---
+
 # 📦 AGRUPACIÓN
 
 Esto nos permitirá sacar el mayor provecho de las funciones de agregación, ya que nos permite dividir toda la información en grupos y realizar cálculos sobre ellos.
@@ -72,3 +76,7 @@ Así como el `WHERE` acompaña al `SELECT` y nos permite filtrar los datos de un
 |:------------|:--------|
 | Electrónica |   376   |
 | Oficina     |   225   |
+
+---
+
+* [**🏠 Volver a Menú de Aprendizaje Consultas SQL**](./SQLSelect.md)
