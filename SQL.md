@@ -78,7 +78,7 @@ Son las propiedades o características de las entidades que describen sus detall
 
 ## 🔑 Claves de Datos
 * **Clave Primaria (PK):** Es un atributo que identifica de manera única cada registro en una tabla.
-* **Clave Foránea (FK):** Es un atributo en una tabla que hace referencia a una tabla en otra estableciendo una relación entre las dos tablas.
+* **Clave Foránea (FK):** Es un campo en una tabla (tabla hija) que almacena el identificador de un registro en una tabla distinta (tabla padre), permitiendo conectar la información de manera estructurada.
 
 ---
 
